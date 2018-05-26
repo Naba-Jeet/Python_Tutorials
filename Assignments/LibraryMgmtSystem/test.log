@@ -1,0 +1,16 @@
+INFO:--:root:--:funct call: :--:displayAvailableBooks:--:15:--2018-05-12 11:57:41,341:
+INFO:--:root:--:request book:--:requestBook:--:10:--2018-05-12 11:57:46,245:
+WARNING:--:root:--:lending book:--:lendBook:--:21:--2018-05-12 11:57:50,894:
+INFO:--:root:--:funct call: :--:displayAvailableBooks:--:15:--2018-05-12 11:57:53,144:
+INFO:--:root:--:request book:--:requestBook:--:10:--2018-05-12 11:58:20,418:
+WARNING:--:root:--:lending book:--:lendBook:--:21:--2018-05-12 11:58:26,833:
+INFO:--:root:--:funct call: :--:displayAvailableBooks:--:15:--2018-05-12 11:58:29,515:
+WARNING:--:root:--:returning book:--:returnBook:--:15:--2018-05-12 11:58:35,206:
+INFO:--:root:--:adding book:--:addBook:--:29:--2018-05-12 11:58:40,800:
+INFO:--:root:--:funct call: :--:displayAvailableBooks:--:15:--2018-05-12 11:58:42,751:
+WARNING:--:root:--:exiting system:--:<module>:--:25:--2018-05-12 11:58:45,876:
+ERROR:--:root:--:Invalid Entry : Traceback::
+
+ None 
+
+:--:<module>:--:28:--2018-05-12 11:58:45,876:
