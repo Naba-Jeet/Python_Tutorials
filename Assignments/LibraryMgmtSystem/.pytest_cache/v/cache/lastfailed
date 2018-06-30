@@ -1,0 +1,4 @@
+{
+  "test_capitalize.py::test_capital_case": true,
+  "test_capitalize.py::test_capital_case_failure": true
+}

@@ -3,6 +3,8 @@ import logging
 logging.basicConfig(filename='test.log', level=logging.DEBUG,
                     format='%(levelname)s:--:%(name)s:--:%(message)s:--:%(funcName)s:--:%(lineno)s:--%(asctime)s:')
 
+logger = logging.getLogger(__name__)
+
 
 
 class Customer:
